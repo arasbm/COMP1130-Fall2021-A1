@@ -2,7 +2,7 @@ public class Fig {
 
     public String toString() {
 
-        return "This is a Litchi created by JunhanWang";
+        return "This is a Fig created by JunhanWang";
 
     }
 
